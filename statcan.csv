@@ -1,0 +1,51 @@
+﻿"Asking rent prices, by rental unit type and number of bedrooms, experimental estimates 1"
+"Frequency: Quarterly"
+"Table: 46-10-0092-01"
+"Release date: 2026-03-11"
+"Geography: Census metropolitan area, Census metropolitan area part"
+""
+""
+
+,"Estimates","Average asking rent",,,,
+"Geography","Rental unit type","Q4 2024","Q1 2025","Q2 2025","Q3 2025","Q4 2025"
+,,"Dollars",,,,
+"Montréal, Census metropolitan area (CMA)","House - 3 or more bedrooms","2,900","2,890","2,830E","2,760","2,760"
+,"Apartment - 1 bedroom","1,550","1,540","1,530E","1,550","1,550"
+,"Apartment - 2 bedrooms","1,930","1,930","1,920E","1,930","1,920"
+,"Room","720","710","720E","720","710"
+"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)","House - 3 or more bedrooms","2,310","2,330","2,380E","2,430","2,430"
+,"Apartment - 1 bedroom","1,580","1,520","1,490E","1,460","1,450"
+,"Apartment - 2 bedrooms","1,770","1,680E","F","1,730","1,660"
+,"Room","750","720","730E","730","700"
+"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)","House - 3 or more bedrooms","2,960","2,990","3,000E","3,000","2,930"
+,"Apartment - 1 bedroom","1,970","2,010","1,950E","1,920","1,900"
+,"Apartment - 2 bedrooms","2,470","2,490","2,430E","2,400","2,390"
+,"Room","850","840","850E","850","840"
+"Toronto, Census metropolitan area (CMA)","House - 3 or more bedrooms","3,640","3,660","3,680E","3,700","3,610"
+,"Apartment - 1 bedroom","2,210","2,170","2,150E","2,160","2,130"
+,"Apartment - 2 bedrooms","2,740","2,690","2,670E","2,720","2,670"
+,"Room","830","840","850E","850","830"
+"Calgary, Census metropolitan area (CMA)","House - 3 or more bedrooms","2,420E","2,510","F","F","2,410"
+,"Apartment - 1 bedroom","1,630","1,630","1,650E","1,630E","1,590"
+,"Apartment - 2 bedrooms","1,950","1,920","2,020E","2,010E","1,930"
+,"Room","750","740","..","F","720"
+"Vancouver, Census metropolitan area (CMA)","House - 3 or more bedrooms","5,030","4,770","4,780E","4,790","4,610"
+,"Apartment - 1 bedroom","2,450","2,380","2,380E","2,390","2,320"
+,"Apartment - 2 bedrooms","3,250","3,170","3,160E","3,190","3,090"
+,"Room","1,080","1,070","1,070E","1,070","1,130"
+
+Symbol legend:
+.., not available for a specific reference period
+E, use with caution
+F, too unreliable to be published
+
+
+
+
+Footnotes:
+1,"For information on methodological changes as well as the limitations specific to a given reference period, please consult the <a href="https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getMainChange&Id=1581113" rel="external noopener noreferrer" target="_blank">Summary of changes (opens new window)</a> page."
+
+
+
+"How to cite: Statistics Canada. Table 46-10-0092-01  Asking rent prices, by rental unit type and number of bedrooms, experimental estimates"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=4610009201
